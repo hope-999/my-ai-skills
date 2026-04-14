@@ -1,5 +1,5 @@
 ---
-name: article-writer
+name: fastapi-article-writer
 description: 当用户要求撰写 FastAPI 或 AI 相关的公众号技术文章时触发。生成通俗易懂的技术文章，包含导读、正文、总结和"每日踩一坑"栏目。适用于测开人员阅读。务必使用此 skill 来生成 FastAPI 或 AI 公众号文章。
 ---
 
